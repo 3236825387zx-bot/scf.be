@@ -1,0 +1,7 @@
+Startup at 2026-04-10 15:42:18
+Database schema validation passed for scf_oms
+Using jar for scf-isc: D:\myproject\scf\scf-isc\target\scf-isc-1.0-SNAPSHOT.jar (LastWriteTime: 2026-04-10 15:42:34)
+Using jar for scf-wms: D:\myproject\scf\scf-wms\target\scf-wms-1.0-SNAPSHOT.jar (LastWriteTime: 2026-04-10 15:42:36)
+Using jar for scf-lgs: D:\myproject\scf\scf-lgs\target\scf-lgs-1.0-SNAPSHOT.jar (LastWriteTime: 2026-04-10 15:42:38)
+Using jar for scf-oms: D:\myproject\scf\scf-oms\target\scf-oms-1.0-SNAPSHOT.jar (LastWriteTime: 2026-04-10 15:42:33)
+Using jar for scf-gateway: D:\myproject\scf\scf-gateway\target\scf-gateway-1.0-SNAPSHOT.jar (LastWriteTime: 2026-04-10 15:42:29)

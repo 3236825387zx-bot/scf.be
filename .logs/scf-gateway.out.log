@@ -1,0 +1,29 @@
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.4.0)
+
+2026-04-10T15:42:56.838+08:00  INFO 27160 --- [scf-gateway] [           main] com.scf.gateway.GatewayApplication       : Starting GatewayApplication using Java 21.0.4 with PID 27160 (D:\myproject\scf\scf-gateway\target\scf-gateway-1.0-SNAPSHOT.jar started by 86184 in D:\myproject\scf)
+2026-04-10T15:42:56.841+08:00  INFO 27160 --- [scf-gateway] [           main] com.scf.gateway.GatewayApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-04-10T15:42:57.705+08:00  INFO 27160 --- [scf-gateway] [           main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=7053a2a3-af5b-3c60-8e98-88a948d3cd65
+2026-04-10T15:42:58.516+08:00  INFO 27160 --- [scf-gateway] [           main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [After]
+2026-04-10T15:42:58.517+08:00  INFO 27160 --- [scf-gateway] [           main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [Before]
+2026-04-10T15:42:58.517+08:00  INFO 27160 --- [scf-gateway] [           main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [Between]
+2026-04-10T15:42:58.517+08:00  INFO 27160 --- [scf-gateway] [           main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [Cookie]
+2026-04-10T15:42:58.517+08:00  INFO 27160 --- [scf-gateway] [           main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [Header]
+2026-04-10T15:42:58.518+08:00  INFO 27160 --- [scf-gateway] [           main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [Host]
+2026-04-10T15:42:58.518+08:00  INFO 27160 --- [scf-gateway] [           main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [Method]
+2026-04-10T15:42:58.518+08:00  INFO 27160 --- [scf-gateway] [           main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [Path]
+2026-04-10T15:42:58.518+08:00  INFO 27160 --- [scf-gateway] [           main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [Query]
+2026-04-10T15:42:58.519+08:00  INFO 27160 --- [scf-gateway] [           main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [ReadBody]
+2026-04-10T15:42:58.519+08:00  INFO 27160 --- [scf-gateway] [           main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [RemoteAddr]
+2026-04-10T15:42:58.519+08:00  INFO 27160 --- [scf-gateway] [           main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [XForwardedRemoteAddr]
+2026-04-10T15:42:58.519+08:00  INFO 27160 --- [scf-gateway] [           main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [Weight]
+2026-04-10T15:42:58.519+08:00  INFO 27160 --- [scf-gateway] [           main] o.s.c.g.r.RouteDefinitionRouteLocator    : Loaded RoutePredicateFactory [CloudFoundryRouteService]
+2026-04-10T15:42:59.030+08:00  INFO 27160 --- [scf-gateway] [           main] o.s.b.web.embedded.netty.NettyWebServer  : Netty started on port 8090 (http)
+2026-04-10T15:42:59.097+08:00  INFO 27160 --- [scf-gateway] [           main] com.scf.gateway.GatewayApplication       : Started GatewayApplication in 2.722 seconds (process running for 3.19)

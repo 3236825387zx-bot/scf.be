@@ -1,0 +1,19 @@
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.4.0)
+
+2026-04-10T15:42:40.803+08:00  INFO 25000 --- [scf-isc] [           main] com.scf.isc.IscApplication               : Starting IscApplication using Java 21.0.4 with PID 25000 (D:\myproject\scf\scf-isc\target\scf-isc-1.0-SNAPSHOT.jar started by 86184 in D:\myproject\scf)
+2026-04-10T15:42:40.805+08:00  INFO 25000 --- [scf-isc] [           main] com.scf.isc.IscApplication               : No active profile set, falling back to 1 default profile: "default"
+2026-04-10T15:42:41.802+08:00  INFO 25000 --- [scf-isc] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8081 (http)
+2026-04-10T15:42:41.814+08:00  INFO 25000 --- [scf-isc] [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-04-10T15:42:41.814+08:00  INFO 25000 --- [scf-isc] [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.33]
+2026-04-10T15:42:41.845+08:00  INFO 25000 --- [scf-isc] [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2026-04-10T15:42:41.846+08:00  INFO 25000 --- [scf-isc] [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1001 ms
+2026-04-10T15:42:42.476+08:00  INFO 25000 --- [scf-isc] [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8081 (http) with context path '/'
+2026-04-10T15:42:42.495+08:00  INFO 25000 --- [scf-isc] [           main] com.scf.isc.IscApplication               : Started IscApplication in 2.143 seconds (process running for 2.541)

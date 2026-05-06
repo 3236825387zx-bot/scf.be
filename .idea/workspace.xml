@@ -4,33 +4,139 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7a95029-f9a1-4298-b7b7-27498b576b0f" name="Changes" comment="" />
+    <list default="true" id="f7a95029-f9a1-4298-b7b7-27498b576b0f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/easycode.ignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/easycode/codebase-v2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scf-common/src/main/java/com/scf/common/exception/BusinessException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scf-common/src/main/java/com/scf/common/result/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scf-oms/src/main/java/com/scf/oms/application/enums/ErrorCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scf-oms/src/main/java/com/scf/oms/application/service/FulfillmentOrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scf-oms/src/main/java/com/scf/oms/application/service/impl/FulfillmentOrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scf-oms/src/main/java/com/scf/oms/interfaces/controller/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scf-oms/src/test/java/com/scf/oms/application/service/FulfillmentOrderApplicationServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scf-oms/src/main/java/com/scf/oms/infrastructure/repository/InMemoryFulfillmentOrderRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/scf-oms/src/main/java/com/scf/oms/infrastructure/repository/InMemoryFulfillmentOrderRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/scf/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_D:/myproject/scf" value="39sdvKwg4US8UetmqDcfeRoFVdb" />
+    </persistenceIdMap>
+  </component>
+  <component name="CopilotUserSelectedModel">
+    <selectedModels>
+      <entry key="chat-panel" value="GPT-5 mini" />
+      <entry key="agent-panel" value="GPT-5 mini" />
+    </selectedModels>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="39sdvKwg4US8UetmqDcfeRoFVdb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.scf-cloud [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.scf-cloud [compile].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.GatewayApplication.executor&quot;: &quot;Debug&quot;,
+    &quot;Spring Boot.OmsApplication.executor&quot;: &quot;Debug&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/86184/my-project/scf&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
   }
-}]]></component>
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.scf.common.result" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="KtorApplicationConfigurationType" />
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.OmsApplication">
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="scf-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.scf.gateway.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IscApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="scf-isc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.scf.isc.IscApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="scf-oms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.scf.oms.OmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="scf-tms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.scf.tms.TmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="scf-wms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.scf.wms.WmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -47,11 +153,53 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1771488942158</updated>
-      <workItem from="1771488943226" duration="17000" />
+      <workItem from="1771488943226" duration="709000" />
+      <workItem from="1771497028180" duration="11000" />
+      <workItem from="1771504389493" duration="2090000" />
+      <workItem from="1771506839873" duration="5793000" />
+      <workItem from="1771565115681" duration="913000" />
+      <workItem from="1771566610410" duration="724000" />
+      <workItem from="1771567348813" duration="820000" />
+      <workItem from="1771568186673" duration="3657000" />
+      <workItem from="1771572329190" duration="9067000" />
+      <workItem from="1771585511661" duration="2318000" />
+      <workItem from="1771588725049" duration="337000" />
+      <workItem from="1771589071044" duration="106000" />
+      <workItem from="1771589186161" duration="3619000" />
+      <workItem from="1771592826188" duration="780000" />
+      <workItem from="1771593627407" duration="546000" />
+      <workItem from="1771594182335" duration="2521000" />
+      <workItem from="1771603249552" duration="1513000" />
+      <workItem from="1771658367357" duration="450000" />
+      <workItem from="1771658857948" duration="423000" />
+      <workItem from="1771659294668" duration="1966000" />
+      <workItem from="1771661402875" duration="7269000" />
+      <workItem from="1772797451134" duration="1348000" />
+      <workItem from="1773580419095" duration="2000" />
+      <workItem from="1773763709431" duration="989000" />
+      <workItem from="1773848965911" duration="1257000" />
+      <workItem from="1773939545003" duration="1366000" />
+      <workItem from="1774069409068" duration="734000" />
+      <workItem from="1774601216414" duration="1069000" />
+      <workItem from="1774602307605" duration="143000" />
+      <workItem from="1774602461140" duration="546000" />
+      <workItem from="1774603023086" duration="13000" />
+      <workItem from="1774603044416" duration="262000" />
+      <workItem from="1774603317609" duration="91000" />
+      <workItem from="1774603425252" duration="15000" />
+      <workItem from="1774603446558" duration="60000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
   </component>
 </project>
